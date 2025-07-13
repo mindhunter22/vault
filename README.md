@@ -124,10 +124,3 @@ python3 app_vault.py
 ```
 
 ---
-
-## 📧 Rendu
-
-Rendu envoyé par mail avec :
-- Ce `README.md`
-- Fichier `app_vault.py` mis à jour
-- Lien GitHub : [https://github.com/akramkalami/Vault](https://github.com/akramkalami/Vault)
